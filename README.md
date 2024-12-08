@@ -36,4 +36,4 @@ Circuit Diagram
 Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-irrigation-system.git
+   git clone https://github.com/BrijNandan101/Smart-Irrigation-System.git
